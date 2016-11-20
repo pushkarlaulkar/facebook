@@ -4,3 +4,5 @@ Once logged in, you can view all your posts in the last division.
 When you post something, it immediately gets updated below.
 Link: http://pushkarlaulkar.byethost17.com/
 
+In the insertintotable.php and loadrecords.php files, you have to put your database credentials.
+
